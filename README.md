@@ -8,3 +8,4 @@ In order to recreate the experiments, the path to the dataset should be set acco
 The artificial dataset generator can be found in the `Artificial` folder. 
 The dataset generation starts by simply running the `draw_data` command in MATLAB. The new dataset will be stored in a separate folder named after the date and time of the execution.
 
+The Artificial folder has not been uploaded due to restrictions on file sizes on GitHub. It may be sent privately if need be.
